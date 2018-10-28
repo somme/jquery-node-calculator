@@ -1,4 +1,5 @@
-#Simple calculator
+Simple calculator
+=================
 
 Simple calculator built with Node.JS and jQuery.
 
